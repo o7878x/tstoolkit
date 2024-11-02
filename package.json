@@ -1,0 +1,19 @@
+{
+  "name": "tstoolkit",
+  "version": "1.0.0",
+  "description": "TypeScript/JavaScript code snippets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/o7878x/tstoolkit.git"
+  },
+  "author": "o7878x",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/o7878x/tstoolkit/issues"
+  },
+  "homepage": "https://github.com/o7878x/tstoolkit#readme"
+}
